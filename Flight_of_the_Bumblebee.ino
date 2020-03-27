@@ -1,3 +1,13 @@
+/*
+This is an Arduino sketch that will play a section of
+Flight of the Bumblebee using an Arduino and a 
+piezoelectric speaker on pin 12. 
+
+- Grant Shanklin
+*/
+
+
+
 int whole = 1300;                    //Whole Note
 int half = whole/2;                  //Half Note
 int quarter = whole/4;               //Quarter Note
